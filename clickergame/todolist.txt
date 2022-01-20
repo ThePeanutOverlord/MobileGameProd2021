@@ -1,0 +1,13 @@
+- set up TODO???
+- scale upgrades properly
+- add upgrade costs
+- add upgrade level numbers
+- add level number display
+- un hard code levels
+- update bg for new levels
+- ship bg layer??
+- popup menus
+- popup instructions
+- add more monsters
+- add monster idle animation
+- add animated background

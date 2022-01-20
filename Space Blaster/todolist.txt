@@ -1,0 +1,9 @@
+- set up TODO??
+- third enemy
+- parallax background
+- more music
+- 2d movement
+- game over screen with name bar
+- health bar
+- armor bar
+- tb bar
